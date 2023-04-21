@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo 2 del PrepCourse Henry
+prueba de como crear un repositorio y conarlo desde GH a mi PC
